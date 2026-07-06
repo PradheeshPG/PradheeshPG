@@ -12,11 +12,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/PradheeshPG)
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=PradheeshPG&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -181,9 +181,9 @@ me = Pradheesh()
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradheeshPG&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PradheeshPG&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -193,7 +193,7 @@ me = Pradheesh()
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradheeshPG&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -203,7 +203,7 @@ me = Pradheesh()
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PradheeshPG&theme=react-dark&hide_border=true"/>
 
 </p>
 
@@ -213,7 +213,7 @@ me = Pradheesh()
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=PradheeshPG&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -239,19 +239,19 @@ me = Pradheesh()
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/pradheesh16">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:prabakaranpradheesh#gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/PradheeshPG">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="[https://YOUR_PORTFOLIO](https://pgpradheesh.netlify.app/)">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
 </a>
 
