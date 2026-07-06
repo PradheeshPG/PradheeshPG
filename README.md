@@ -165,48 +165,6 @@ me = Pradheesh()
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PradheeshPG&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=PradheeshPG&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradheeshPG&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PradheeshPG&theme=react-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PradheeshPG&theme=algolia&margin-w=15&margin-h=15&no-frame=true"/>
-
-</p>
-
----
-
 # ⚡ Fun Facts
 
 ✨ I love building AI products.
