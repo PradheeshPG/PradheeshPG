@@ -197,7 +197,7 @@ me = Pradheesh()
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="[https://YOUR_PORTFOLIO"](https://pgpradheesh.netlify.app/)">
+<a href="https://pgpradheesh.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge"/>
 </a>
 
